@@ -1,0 +1,99 @@
+{
+    "@appName": {
+        "description": "The name of the application"
+    },
+    "@home": {
+        "description": "Home page title"
+    },
+    "@search": {
+        "description": "Search page title"
+    },
+    "@library": {
+        "description": "Library page title"
+    },
+    "@profile": {
+        "description": "Profile page title"
+    },
+    "@settings": {
+        "description": "Settings page title"
+    },
+    "@signIn": {
+        "description": "Sign in button text"
+    },
+    "@signUp": {
+        "description": "Sign up button text"
+    },
+    "@email": {
+        "description": "Email field label"
+    },
+    "@password": {
+        "description": "Password field label"
+    },
+    "appName": "Книжный Трекер",
+    "home": "Главная",
+    "search": "Поиск",
+    "library": "Библиотека",
+    "profile": "Профиль",
+    "settings": "Настройки",
+    "signIn": "Войти",
+    "signUp": "Регистрация",
+    "email": "Эл. почта",
+    "password": "Пароль",
+    "confirmPassword": "Подтвердите пароль",
+    "forgotPassword": "Забыли пароль?",
+    "emailRequired": "Введите эл. почту",
+    "passwordRequired": "Введите пароль",
+    "invalidEmail": "Введите корректный адрес эл. почты",
+    "passwordMismatch": "Пароли не совпадают",
+    "logout": "Выйти",
+    "darkMode": "Темная тема",
+    "language": "Язык",
+    "english": "Английский",
+    "russian": "Русский",
+    "kazakh": "Казахский",
+    "searchBooks": "Поиск книг...",
+    "myBooks": "Мои книги",
+    "reading": "Читаю",
+    "completed": "Прочитано",
+    "wantToRead": "Хочу прочитать",
+    "addToLibrary": "Добавить в библиотеку",
+    "removeFromLibrary": "Удалить из библиотеки",
+    "russian": "Русский",
+    "kazakh": "Казахский",
+    "searchBooks": "Поиск книг...",
+    "myBooks": "Мои книги",
+    "reading": "Читаю",
+    "completed": "Прочитано",
+    "wantToRead": "Хочу прочитать",
+    "addToLibrary": "Добавить в библиотеку",
+    "removeFromLibrary": "Удалить из библиотеки",
+    "updateProgress": "Обновить прогресс",
+    "currentPage": "Текущая страница",
+    "totalPages": "Всего страниц",
+    "startReading": "Начать чтение",
+    "finishReading": "Завершить чтение",
+    "bookDetails": "О книге",
+    "author": "Автор",
+    "publisher": "Издательство",
+    "publishedDate": "Дата публикации",
+    "description": "Описание",
+    "categories": "Категории",
+    "loading": "Загрузка...",
+    "error": "Ошибка",
+    "tryAgain": "Повторить",
+    "noResults": "Ничего не найдено",
+    "noBooks": "В вашей библиотеке нет книг",
+    "signInWithGoogle": "Войти через Google",
+    "haveAccount": "Уже есть аккаунт? Войти",
+    "noAccount": "Нет аккаунта? Зарегистрируйтесь",
+    "bookList": "Список книг",
+    "allGenres": "Все жанры",
+    "art": "Искусство",
+    "business": "Бизнес",
+    "history": "История",
+    "fiction": "Художественная литература",
+    "science": "Наука",
+    "technology": "Технологии",
+    "biography": "Биография",
+    "other": "Другое"
+}

@@ -1,0 +1,99 @@
+{
+    "@appName": {
+        "description": "The name of the application"
+    },
+    "@home": {
+        "description": "Home page title"
+    },
+    "@search": {
+        "description": "Search page title"
+    },
+    "@library": {
+        "description": "Library page title"
+    },
+    "@profile": {
+        "description": "Profile page title"
+    },
+    "@settings": {
+        "description": "Settings page title"
+    },
+    "@signIn": {
+        "description": "Sign in button text"
+    },
+    "@signUp": {
+        "description": "Sign up button text"
+    },
+    "@email": {
+        "description": "Email field label"
+    },
+    "@password": {
+        "description": "Password field label"
+    },
+    "appName": "Кітап Трекері",
+    "home": "Басты бет",
+    "search": "Іздеу",
+    "library": "Кітапхана",
+    "profile": "Профиль",
+    "settings": "Параметрлер",
+    "signIn": "Кіру",
+    "signUp": "Тіркелу",
+    "email": "Эл. пошта",
+    "password": "Құпия сөз",
+    "confirmPassword": "Құпия сөзді растау",
+    "forgotPassword": "Құпия сөзді ұмыттыңыз ба?",
+    "emailRequired": "Эл. поштаны енгізіңіз",
+    "passwordRequired": "Құпия сөзді енгізіңіз",
+    "invalidEmail": "Жарамды эл. пошта мекенжайын енгізіңіз",
+    "passwordMismatch": "Құпия сөздер сәйкес келмейді",
+    "logout": "Шығу",
+    "darkMode": "Қараңғы тақырып",
+    "language": "Тіл",
+    "english": "Ағылшын",
+    "russian": "Орыс",
+    "kazakh": "Қазақ",
+    "searchBooks": "Кітаптарды іздеу...",
+    "myBooks": "Менің кітаптарым",
+    "reading": "Оқуда",
+    "completed": "Оқып бітті",
+    "wantToRead": "Оқығым келеді",
+    "addToLibrary": "Кітапханаға қосу",
+    "removeFromLibrary": "Кітапханадан жою",
+    "russian": "Орыс",
+    "kazakh": "Қазақ",
+    "searchBooks": "Кітаптарды іздеу...",
+    "myBooks": "Менің кітаптарым",
+    "reading": "Оқып жатырмын",
+    "completed": "Оқылған",
+    "wantToRead": "Оқығым келеді",
+    "addToLibrary": "Кітапханаға қосу",
+    "removeFromLibrary": "Кітапханадан жою",
+    "updateProgress": "Прогресті жаңарту",
+    "currentPage": "Ағымдағы бет",
+    "totalPages": "Беттер саны",
+    "startReading": "Оқуды бастау",
+    "finishReading": "Оқуды аяқтау",
+    "bookDetails": "Кітап туралы",
+    "author": "Автор",
+    "publisher": "Баспа",
+    "publishedDate": "Жарияланған күні",
+    "description": "Сипаттама",
+    "categories": "Санаттар",
+    "loading": "Жүктелуде...",
+    "error": "Қате",
+    "tryAgain": "Қайталау",
+    "noResults": "Нәтиже табылмады",
+    "noBooks": "Сіздің кітапханаңызда кітаптар жоқ",
+    "signInWithGoogle": "Google арқылы кіру",
+    "haveAccount": "Аккаунтыңыз бар ма? Кіру",
+    "noAccount": "Тіркелгіңіз жоқ па? Тіркелу",
+    "bookList": "Кітаптар тізімі",
+    "allGenres": "Барлық жанрлар",
+    "art": "Өнер",
+    "business": "Бизнес",
+    "history": "Тарих",
+    "fiction": "Көркем әдебиет",
+    "science": "Ғылым",
+    "technology": "Технология",
+    "biography": "Өмірбаян",
+    "other": "Басқа"
+}
